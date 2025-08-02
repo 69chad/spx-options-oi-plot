@@ -36,12 +36,12 @@ This project tests a simple weekly SPX options strategy based on open interest a
 
 | Metric             | Value               |
 |--------------------|---------------------|
-| Total Trades       | XX                  |
-| Win Rate           | XX%                 |
-| Sharpe (strategy)  | X.XX                |
-| Sharpe (SPY)       | X.XX                |
-| Max Drawdown       | -$XXX               |
-| Tail (5%) P&L      | -$XXX               |
+| Total Trades       | 353                 |
+| Win Rate           | 11.9%               |
+| Sharpe (strategy)  | -11.76              |
+| Sharpe (SPY)       | 0.76                |
+| Max Drawdown       | -$27969.59          |
+| Tail (5%) P&L      | -$138.12            |
 
 _(Update table with your actual numbers from Day 5/6.)_
 
