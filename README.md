@@ -43,7 +43,6 @@ This project tests a simple weekly SPX options strategy based on open interest a
 | Max Drawdown       | -$27969.59          |
 | Tail (5%) P&L      | -$138.12            |
 
-_(Update table with your actual numbers from Day 5/6.)_
 
 ---
 
@@ -59,7 +58,6 @@ _(Update table with your actual numbers from Day 5/6.)_
 
 - `notebook.ipynb` – main code + plots
 - `README.md` – this file
-- `results.csv` – optional output export
 
 ---
 
